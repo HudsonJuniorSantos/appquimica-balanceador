@@ -1,0 +1,5 @@
+Al + Ag2SO4 -> Al2(SO4)3 + Ag
+H2 + O2 -> H2O
+Fe + O2 -> Fe2O3
+NaCl + AgNO3 -> NaNO3 + AgCl
+Ca(OH)2 + H3PO4 -> Ca3(PO4)2 + H2O
